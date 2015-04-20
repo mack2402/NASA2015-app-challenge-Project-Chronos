@@ -1,5 +1,6 @@
 # NASA2015-app-challenge-Project-Chronos
-Code for pic18f4550 - HID keyboard - Gloves as a hardware input
+--- Code for pic18f4550 - HID keyboard - Gloves as a hardware input
+--- Logic flow diagrams - game - hardware
 
 Project made by GESH Team:
 - Pamela Figueroa
