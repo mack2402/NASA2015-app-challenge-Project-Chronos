@@ -1,4 +1,4 @@
-# usb-HID-for-space-app
+# NASA2015-app-challenge-Project-Chronos
 Code for pic18f4550 - HID keyboard - Gloves as a hardware input
 
 Project made by GESH Team:
